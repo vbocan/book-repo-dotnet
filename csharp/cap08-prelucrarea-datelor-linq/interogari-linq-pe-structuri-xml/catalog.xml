@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <carte isbn="978-0735619678" gen="Programare">
+    <titlu>Code Complete</titlu>
+    <autor>Steve McConnell</autor>
+    <an>2004</an>
+    <pret>39.99</pret>
+  </carte>
+  <carte isbn="978-0596517748" gen="Programare">
+    <titlu>JavaScript: The Good Parts</titlu>
+    <autor>Douglas Crockford</autor>
+    <an>2008</an>
+    <pret>23.99</pret>
+  </carte>
+  <carte isbn="978-0132126953" gen="Rețele">
+    <titlu>Computer Networks</titlu>
+    <autor>Andrew S. Tanenbaum</autor>
+    <an>2010</an>
+    <pret>65.00</pret>
+  </carte>
+  <carte isbn="978-0132350884" gen="Programare">
+    <titlu>Clean Code</titlu>
+    <autor>Robert C. Martin</autor>
+    <an>2008</an>
+    <pret>34.99</pret>
+  </carte>
+  <carte isbn="978-0201633610" gen="Design">
+    <titlu>Design Patterns</titlu>
+    <autor>Erich Gamma</autor>
+    <an>1994</an>
+    <pret>49.99</pret>
+  </carte>
+  <carte isbn="978-0135957059" gen="Programare">
+    <titlu>The Pragmatic Programmer</titlu>
+    <autor>David Thomas</autor>
+    <an>2019</an>
+    <pret>42.99</pret>
+  </carte>
+</catalog>

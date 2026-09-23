@@ -1,0 +1,6 @@
+# Configurarea aplicației (exercițiul 4, capitolul 13)
+host = localhost
+port = 8080
+
+# Baza de date
+db = studenti

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <carte isbn="978-0132350884" gen="Programare">
+    <titlu>Clean Code</titlu>
+    <autor>Robert C. Martin</autor>
+    <an>2008</an>
+    <pret>34.99</pret>
+  </carte>
+  <carte isbn="978-0262033848" gen="Algoritmi">
+    <titlu>Introduction to Algorithms</titlu>
+    <autor>Thomas H. Cormen</autor>
+    <an>2009</an>
+    <pret>75.00</pret>
+  </carte>
+  <carte isbn="978-0134757599" gen="Programare">
+    <titlu>Refactoring</titlu>
+    <autor>Martin Fowler</autor>
+    <an>2018</an>
+    <pret>44.99</pret>
+  </carte>
+  <carte isbn="978-0133594140" gen="Rețele">
+    <titlu>Computer Networking: A Top-Down Approach</titlu>
+    <autor>James F. Kurose</autor>
+    <an>2016</an>
+    <pret>55.00</pret>
+  </carte>
+  <carte isbn="978-0135957059" gen="Programare">
+    <titlu>The Pragmatic Programmer</titlu>
+    <autor>David Thomas</autor>
+    <an>2019</an>
+    <pret>42.99</pret>
+  </carte>
+</catalog>

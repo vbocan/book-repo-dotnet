@@ -1,0 +1,9 @@
+[
+  { "cod": "E001", "nume": "Laptop",    "categorie": "Electronice", "pret": 3500, "stoc": 15 },
+  { "cod": "E002", "nume": "Monitor",   "categorie": "Electronice", "pret": 1200, "stoc": 30 },
+  { "cod": "E003", "nume": "SSD 1TB",   "categorie": "Electronice", "pret": 500,  "stoc": 60 },
+  { "cod": "P001", "nume": "Tastatură", "categorie": "Periferice",  "pret": 250,  "stoc": 50 },
+  { "cod": "P002", "nume": "Mouse",     "categorie": "Periferice",  "pret": 120,  "stoc": 80 },
+  { "cod": "A001", "nume": "Căști",     "categorie": "Audio",       "pret": 450,  "stoc": 25 },
+  { "cod": "A002", "nume": "Microfon",  "categorie": "Audio",       "pret": 380,  "stoc": 20 }
+]
